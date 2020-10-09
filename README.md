@@ -1,21 +1,19 @@
 # Bonanza-Turbo
 Turbo Engine, Lighting mods and Custom Flight Model
-============================================
 This package is a Turbo version of the Bonanza G36
 for Flight Simulator 2020 - Version 1.
 
 It is a comprehensive redesign of the flight model, 
 engine and lighting and has six new liveries. 
-============================================
 
 by Robert Young - October 8th 2020
 
 This mod will enable the Bonanza to achieve 212 knots (243 mph) at 17,500 ft on cruise power and up to 222 knots (255 mph) on full power! It will climb at 1400 fpm at sea level and has full manifold pressure of 29+ inches all the way up to 18,000 feet. The ceiling is now extended to 25,000 feet
 
-==============================================
+
 For details about installation and detailed guide please 
 thoroughly read the included PDF or RTF file in the zip
-==============================================
+
 
 The turbo-aspirated Bonanza vastly increases the climb and cruise performance of the default Bonanza G36 and is based on turbo conversions available in the aviation industry for real Bonanza G36 and A36 owners. It is therefore not a fictional mod but faithfully re-creates the features and power of the turbo conversion.
 
@@ -48,10 +46,10 @@ Included are:
 * Compatible with Working-Title's G1000 mod
 
 How to install this mod :
-==================================
+
 Please read the included PDF or RTF for
 full instructions & detailed, illustrated guide.
-==================================
+
 
 Using this mod will convert the default FS2020 Bonanza G36 into a turbo-aspirated aircraft with much higher climb rates and cruise speeds than the default aircraft. Included are also five custom liveries.
 
