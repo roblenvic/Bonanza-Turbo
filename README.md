@@ -1,7 +1,8 @@
 # Bonanza-Turbo
 Turbo Engine, Lighting mods and Custom Flight Model
-This package is a Turbo version of the Bonanza G36
-for Flight Simulator 2020 - Version 1.
+for the Bonanza G36
+for Flight Simulator 2020
+Version 1.
 
 It is a comprehensive redesign of the flight model, 
 engine and lighting and has six new liveries. 
