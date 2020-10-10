@@ -57,6 +57,5 @@ Using this mod will convert the default FS2020 Bonanza G36 into a turbo-aspirate
 To install, extract the “Bonanza-Turbo-V1” folder of the zip file into your FS2020 packages\community folder. The paths  of the community folder slightly differ according to where you purchased the simulator (Microsoft direct or Steam). For guidance on the location of your community folder please go here:
 https://www.flightsim.com/vbfs/content.php?21235-Finding-The-MSFS-2020-Community-Folder
 
-=================================================
 If after trying it you prefer the original FS2020 version, 
 then simply remove this mod from your community folder.
