@@ -1,4 +1,4 @@
-VERSION 2 - updated 16t October
+VERSION 2 - updated 16th October
 
 
 This package is a Turbo version of the Bonanza G36
