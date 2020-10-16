@@ -75,10 +75,10 @@ Included are:
 *Compatible with Working-Title's G1000 mod
 
 How to install this mod :
-==================================
+
 Please read the included PDF or RTF for
 full instructions & detailed, illustrated guide.
-==================================
+
 
 Using this mod will convert the default FS2020 Bonanza G36 into a turbo-aspirated aircraft with much higher climb rates and cruise speeds than the default aircraft. Included are also five custom liveries.
 
@@ -86,10 +86,10 @@ To install, extract the “Bonanza-Turbo-V2” folder of the zip file into your 
 
 https://www.flightsim.com/vbfs/content.php?21235-Finding-The-MSFS-2020-Community-Folder
 
-=================================================
+
 If after trying it you prefer the original FS2020 version, 
 then simply remove this mod from your community folder.
-=================================================
+
 
 This mod took over 150 hours to make. It is a free mod, but donations are very welcome
 and this helps me to spend more energy and time devoted to improving it and also creating
