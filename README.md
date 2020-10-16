@@ -8,7 +8,7 @@ It is a comprehensive redesign of the flight model,
 engine and lighting and has nine new liveries. 
 
 
-by Robert Young - October 15th 2020
+by Robert Young
 
 This mod will enable the Bonanza to achieve 212 knots (243 mph) at 17,500 ft on cruise power and up to 222 knots (255 mph) on full power! It will climb at 1400 fpm at sea level and has full manifold pressure of 29+ inches all the way up to 18,000 feet. The ceiling is now extended to 25,000 feet
 
